@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, Tableau, Spreadsheets, Looker Studio, BigQuery 
 
 ## Education
-- Google Data Analytics Professional Certificate (_2024_)
+- Google Data Analytics Professional Certificate | Google (_2024_)
 - Master degree in Digital Communication and Data Analysis | Sorbonne Nouvelle Université - Paris III (_2022_)
 - Master degree in Communication | Federal University of Minas Gerais (_2019_)
 - Bachelor degree in Journalism | Federal University of Ouro Preto (_2013_)        		
