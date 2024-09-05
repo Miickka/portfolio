@@ -29,7 +29,7 @@
 
 ## Python
 
-### Google Data Analytics Professional Certificate Case study: How does a bike-share navigate speedy success? (*Undergoing project*)
+### Google Data Analytics Professional Certificate Case study: How does a bike-share navigate speedy success?  
 [Check the repository](https://github.com/Miickka/capstone-google-certificate)
 
 In this case study, I am a junior data analyst working for a fictional company, Cyclistic, based in Chicago (USA). I was assigned with the question to answer: How do annual members and casual riders use Cyclistic bikes differently? After downloading the previous 12 months of data*, I merged everything into a single .csv file containing **more than 6 million rows**. In order to answer the business question, I've followed the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.  
