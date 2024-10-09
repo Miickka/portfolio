@@ -29,10 +29,15 @@
 
 ## Python
 
+### Datacamp Professional Certificate Case study: Pens and Printers [Undergoing]
+[Check the repository](https://github.com/Miickka/datacamp_certificate)
+
+In this pratical exam, I must act as a Data Analyst and perform an analysis for "Pens and Printers" and analyse **15 000 rows of data** in order to answer the business question. It is expected a Written Report and a video presentation up to 10 minutes long.
+
 ### Google Data Analytics Professional Certificate Case study: How does a bike-share navigate speedy success?  
 [Check the repository](https://github.com/Miickka/capstone-google-certificate)
 
-In this case study, I am a junior data analyst working for a fictional company, Cyclistic, based in Chicago (USA). I was assigned with the question to answer: How do annual members and casual riders use Cyclistic bikes differently? After downloading the previous 12 months of data*, I merged everything into a single .csv file containing **more than 6 million rows**. In order to answer the business question, I've followed the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.  
+In this case study, I am a junior data analyst working for a fictional company, Cyclistic, based in Chicago (USA). I was assigned with the question to answer: How do annual members and casual riders use Cyclistic bikes differently? After downloading the previous 12 months of data*, I merged everything into a single .csv file containing **more than 6 million rows**. In order to answer the business question, I've followed the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act. The analysis revealed that annual members accounted for 63.5% of rides, with casual riders making up 35.5%. Casual riders averaged 21 minutes per ride, while annual members averaged 12 minutes. A seasonal trend showed peak usage in summer, with casual ridership tripling during this time. Annual members rode consistently year-round, suggesting commuting use. Casual members rode more on weekends, while annual members favored weekdays. Recommendations include promoting summer memberships, offering seasonal discounts, and targeting casual riders with loyalty programs and email campaigns.
 
 ### Python for Journalists 
 [Scrap data - Check the repository](https://github.com/Miickka/python-journalists-scrap-data)
