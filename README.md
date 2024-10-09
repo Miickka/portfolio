@@ -2,29 +2,6 @@
 
 #### Technical Skills: Python, SQL, R, Tableau, Spreadsheets, Looker Studio, BigQuery 
 
-## Education
-- Google Data Analytics Professional Certificate | Google (_2024_)
-- Master degree in Digital Communication and Data Analysis | Sorbonne Nouvelle Université - Paris III (_2022_)
-- Master degree in Communication | Federal University of Minas Gerais (_2019_)
-- Bachelor degree in Journalism | Federal University of Ouro Preto (_2013_)        		
-
-
-## Work Experience
-**Head of digital communication @ nile (_November 2022 - Present_)**
-- Use SQL expertise to lead data extraction, cleaning, and analysis for assessing post performance on company's LinkedIn and Twitter pages, driving data-driven decision-making.
-- Proactively identify and utilize insights to optimize performance metrics.
-- Transform raw data into actionable insights using statistical techniques. Conduct surveys, compile data, and maintain a database of 8,000 contacts for regular newsletter sending. 
-
-**Journalist @ Radio CBN (_August 2018 - July 2020_)**
-- Utilize data cleaning techniques such as filtering, sorting, and merging datasets to write news stories driven by data analysis.
-- Identify trends in large datasets to uncover potential leads and story angles.
-- Gather, analyze, interpret, and visualize data from various sources to generate news articles.
-- Produce in-depth news articles using data analysis and effectively communicate complex data and analysis results to non-technical audiences in a clear and concise manner.
-
-**Journalist @ Radio BandNews FM (_December 2012 - July 2018_)**
-- Effectively communicate complex data findings to diverse audiences, present insights to editors, and translate technical information for nontechnical audiences. - Strong interpersonal skills to collaborate with data scientists and analysts.
-- Thrive in fast-paced newsroom environments, meeting deadlines and managing multiple tasks with attention to detail for accurate data analysis and reporting
-
 # Projects
 
 ## Python
@@ -64,6 +41,29 @@ Data on all the members of the National Assembly in 2024 before the dissolution 
 This script is the result of an online course by @AlexTheAnalyst in which I could explore the data of layoffs around the world in the recent pas years. I had the opportunity to first clean the dataset (removing the duplicates, standardiinge the data, checking for Null values or blank values, and removing any columns or rows). After that, I started an exploratory analysis.
 
 
+## Education
+- Datacamp Professional Certificate | Datacamp (_Urdergoing_)
+- Google Data Analytics Professional Certificate | Google (_2024_)
+- Master degree in Digital Communication and Data Analysis | Sorbonne Nouvelle Université - Paris III (_2022_)
+- Master degree in Communication | Federal University of Minas Gerais (_2019_)
+- Bachelor degree in Journalism | Federal University of Ouro Preto (_2013_)        		
+
+
+## Work Experience
+**Head of digital communication @ nile (_November 2022 - Present_)**
+- Use SQL expertise to lead data extraction, cleaning, and analysis for assessing post performance on company's LinkedIn and Twitter pages, driving data-driven decision-making.
+- Proactively identify and utilize insights to optimize performance metrics.
+- Transform raw data into actionable insights using statistical techniques. Conduct surveys, compile data, and maintain a database of 8,000 contacts for regular newsletter sending. 
+
+**Journalist @ Radio CBN (_August 2018 - July 2020_)**
+- Utilize data cleaning techniques such as filtering, sorting, and merging datasets to write news stories driven by data analysis.
+- Identify trends in large datasets to uncover potential leads and story angles.
+- Gather, analyze, interpret, and visualize data from various sources to generate news articles.
+- Produce in-depth news articles using data analysis and effectively communicate complex data and analysis results to non-technical audiences in a clear and concise manner.
+
+**Journalist @ Radio BandNews FM (_December 2012 - July 2018_)**
+- Effectively communicate complex data findings to diverse audiences, present insights to editors, and translate technical information for nontechnical audiences. - Strong interpersonal skills to collaborate with data scientists and analysts.
+- Thrive in fast-paced newsroom environments, meeting deadlines and managing multiple tasks with attention to detail for accurate data analysis and reporting
 
 
 
