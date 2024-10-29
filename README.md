@@ -6,10 +6,10 @@
 
 ## Python
 
-### Datacamp Professional Certificate Case study: Pens and Printers [Undergoing]
+### Datacamp Professional Certificate Case study: Pens and Printers  
 [Check the repository](https://github.com/Miickka/datacamp_certificate)
 
-In this pratical exam, I must act as a Data Analyst and perform an analysis for "Pens and Printers" and analyse **15 000 rows of data** in order to answer the business question. It is expected a Written Report and a video presentation up to 10 minutes long.
+In this pratical exam, I must act as a Data Analyst and perform an analysis for "Pens and Printers" and analyse **15 000 rows of data** in order to answer the business question. It is expected a Written Report and a video presentation up to 10 minutes long. The analysis of sales data from Pens and Printers shows that the Email method is the most efficient, generating 53% of total revenue and engaging 50% of customers, while the Call method lags with only 17% revenue contribution. The Email + Call method has shown growth potential, with the highest revenue per customer (RPC) at $183.63. The company should prioritize Email marketing, reduce resources allocated to Call strategies, and regularly monitor the RPC metric.
 
 ### Google Data Analytics Professional Certificate Case study: How does a bike-share navigate speedy success?  
 [Check the repository](https://github.com/Miickka/capstone-google-certificate)
