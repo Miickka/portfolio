@@ -21,7 +21,7 @@ In this case study, I am a junior data analyst working for a fictional company, 
 [Clean data - Check the repository](https://github.com/Miickka/python-journalists-clean)
 [Analysis - Check the reposiroty](https://github.com/Miickka/python_journalists_analysis)
 
-The course Python for Journalists offered by European Journalism Centre is meant for journalists looking to learn the most common uses of Python for data journalism. In this module, we used **Beautilsoup** to scrap data and **Pandas** to both clean and annalyze the dataset. 
+The course Python for Journalists offered by European Journalism Centre is meant for journalists looking to learn the most common uses of Python for data journalism. In this module, we used **Beautiful soup** to scrap data and **Pandas** to both clean and annalyze the dataset. 
 
 ## SQL (mySQL Workbench)
 
