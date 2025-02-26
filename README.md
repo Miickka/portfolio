@@ -23,20 +23,12 @@ Newsletter: Managing and designing regular newsletters for a database of 8,000 c
 Content Creation: Designing visuals, layouts, and logos. 
 
 
-
 **Journalist @ Radio CBN (_August 2018 - July 2020_)**
-- Utilize data cleaning techniques such as filtering, sorting, and merging datasets to write news stories driven by data analysis.
-- Identify trends in large datasets to uncover potential leads and story angles.
-- Gather, analyze, interpret, and visualize data from various sources to generate news articles.
-- Produce in-depth news articles using data analysis and effectively communicate complex data and analysis results to non-technical audiences in a clear and concise manner.
 
 **Journalist @ Radio BandNews FM (_December 2012 - July 2018_)**
-- Effectively communicate complex data findings to diverse audiences, present insights to editors, and translate technical information for nontechnical audiences. - Strong interpersonal skills to collaborate with data scientists and analysts.
-- Thrive in fast-paced newsroom environments, meeting deadlines and managing multiple tasks with attention to detail for accurate data analysis and reporting
 
 
-
-
+--------
 
 
 # Projects
