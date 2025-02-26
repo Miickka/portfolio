@@ -78,8 +78,9 @@ Data on all the members of the National Assembly in 2024 before the dissolution 
 This script is the result of an online course by @AlexTheAnalyst in which I could explore the data of layoffs around the world in the recent pas years. I had the opportunity to first clean the dataset (removing the duplicates, standardiinge the data, checking for Null values or blank values, and removing any columns or rows). After that, I started an exploratory analysis.
 
 
-## Education
-- Datacamp Professional Certificate | Datacamp (_Urdergoing_)
+## Education 
+- Exam PL-300: Microsoft Power BI Data Analyst (_En cours_)
+- Datacamp Professional Certificate | Datacamp (_2024_)
 - Google Data Analytics Professional Certificate | Google (_2024_)
 - Master degree in Digital Communication and Data Analysis | Sorbonne Nouvelle Université - Paris III (_2022_)
 - Master degree in Communication | Federal University of Minas Gerais (_2019_)
