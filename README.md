@@ -9,19 +9,18 @@ Digital Strategy: Since 2021, as a Digital Relations Manager, I have increased m
 Data Analysis: Analyzing the performance of digital campaigns, identifying improvement opportunities, and transforming data into strategic insights. Developing data analysis reports to facilitate strategic decision-making.
 
 Website Management: Managing the agency's website and creating/managing 9 websites for our coalitions and clients. Links : 
-[nile](https://www.nile-consulting.eu)
-[CannabiSanté[(https://cannabisante.org)
-[A-Grippe-Toi](https://agrippetoi.org)
-[MéninGO!](https://menin-go.org)
-[France For One Health](https://franceonehealth.org/)
-[1PACT](https://1-pact.org/)
-[Santé au 55 Faubourg](https://sante55faubourg.fr)
+- [nile](https://www.nile-consulting.eu)
+- [CannabiSant][(https://cannabisante.org)
+- [A-Grippe-Toi](https://agrippetoi.org)
+- [MéninGO!](https://menin-go.org)
+- [France For One Health](https://franceonehealth.org/)
+- [1PACT](https://1-pact.org/)
+- [Santé au 55 Faubourg](https://sante55faubourg.fr)
         
 
 Newsletter: Managing and designing regular newsletters for a database of 8,000 contacts. Processing event participant data, analyzing campaign performance, and continuously optimizing engagement and impact.
 
 Content Creation: Designing visuals, layouts, and logos. 
-<img src="https://menin-go.org/wp-content/uploads/2023/11/Logo_MeninGO_Miniature-1.png" alt="Logo MéninGO!" width="500px">
 
 
 
