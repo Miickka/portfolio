@@ -10,7 +10,7 @@ Data Analysis: Analyzing the performance of digital campaigns, identifying impro
 
 Website Management: Managing the agency's website and creating/managing 9 websites for our coalitions and clients. Links : 
 - [nile](https://www.nile-consulting.eu)
-- [CannabiSant][(https://cannabisante.org)
+- [CannabiSanté](https://cannabisante.org)
 - [A-Grippe-Toi](https://agrippetoi.org)
 - [MéninGO!](https://menin-go.org)
 - [France For One Health](https://franceonehealth.org/)
